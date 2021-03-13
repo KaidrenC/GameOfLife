@@ -106,8 +106,8 @@ import de.bezier.guido.*;
    private boolean alive;
  
    public Life (int row, int col) {
-     width = 800/Coll;
-     height = 800/Roww;
+     width = 1000/Coll;
+     height = 1000/Roww;
      myRow = row;
      myCol = col;
      x = myCol*width;
