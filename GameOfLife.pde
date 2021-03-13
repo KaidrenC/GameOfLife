@@ -1,11 +1,11 @@
 import de.bezier.guido.*;
- public final static int Roww = 20;
- public final static int Coll = 20;
+ public final static int Roww = 40;
+ public final static int Coll = 40;
  private Life[][] buttons; 
  private boolean[][] buffer; 
  private boolean running = true; 
  public void settings() {
-   size(2000, 2000);
+   size(800, 800);
  }
  
  public void setup () {
