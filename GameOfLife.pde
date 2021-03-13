@@ -1,6 +1,6 @@
 import de.bezier.guido.*;
- public final static int Roww = 40;
- public final static int Coll = 40;
+ public final static int Roww = 20;
+ public final static int Coll = 20;
  private Life[][] buttons; 
  private boolean[][] buffer; 
  private boolean running = true; 
