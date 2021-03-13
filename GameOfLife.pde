@@ -20,7 +20,7 @@ import de.bezier.guido.*;
  }
  
  public void draw () {
-   background(1);
+   background(100);
    if (running == false) 
      return;
    copyFromButtonsToBuffer();
